@@ -17,4 +17,5 @@ O menu permite cadastrar e listar usuários. A opção 0 encerra o menu; para en
 - GET /usuarios: lista usuários.
 - POST /usuarios: cadastra um usuário com JSON `{"nome":"Maria"}`.
 
-As versões de dependências do projeto original foram preservadas. A compilação Spring não foi validada no ambiente de publicação por indisponibilidade de acesso ao Maven.
+As versões de dependências do projeto original foram preservadas. Compilação e empacotamento validados com `sh mvnw -DskipTests package`. Testes de integração com PostgreSQL não foram executados.
+
