@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/project-banner.svg" width="100%" alt="Banner CADASTRO DE USUÁRIOS">
+</div>
+
+<div align="center">
 
 # C A D A S T R O　D E　U S U Á R I O S
 
